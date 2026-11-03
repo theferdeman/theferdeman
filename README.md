@@ -23,7 +23,7 @@ Estudiante de Ingeniería de Sistemas Cibernéticos con sólida base técnica en
 
 ###  Bachiller
 
-- *Institución:* E E  Rural maria del roasrio carmen de viviral - *Año de graduación:* 2023
+- *Institución:* E,E,Rural maria del Rosario Carmen de viviral - *Año de graduación:* 2023
 
 ---
 
