@@ -18,7 +18,6 @@ Estudiante de Ingeniería de Sistemas Cibernéticos con sólida base técnica en
 |  Técnico en Maquinas y Herramientas  | 
 | Estado: acabado |
 |  Ingeniería de Sistemas Cibernéticos | 
-|:---|:---|
 | *Universidad San Buenaventura* |
 | Estado: Cursando  
 
