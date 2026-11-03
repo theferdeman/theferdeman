@@ -29,4 +29,4 @@ Estudiante de Ingeniería de Sistemas Cibernéticos con sólida base técnica en
 
 ###  Perfil de GitHub
 
-*James David Andres Paniagua Fernandez
+James David Andres Paniagua Fernandez
